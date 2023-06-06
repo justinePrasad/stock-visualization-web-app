@@ -1,0 +1,24 @@
+{
+  "name": "stockvis",
+  "version": "1.0.0",
+  "description": "packages used for stock visualization web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinePrasad/stock-visualization-web-app.git"
+  },
+  "author": "justinePrasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinePrasad/stock-visualization-web-app/issues"
+  },
+  "homepage": "https://github.com/justinePrasad/stock-visualization-web-app#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.2.2",
+    "request-promise": "^4.2.6"
+  }
+}
